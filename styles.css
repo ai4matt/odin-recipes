@@ -1,0 +1,28 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: beige;
+}
+
+h1, h2, h3 {
+    color: goldenrod;
+    background-color: dimgray;
+    text-align: center;
+}
+
+.recipe-list {
+    color: goldenrod;
+}
+
+.recipe-list li a {
+    color: dimgray;
+}
+
+img {
+    width: 320px;
+    height: auto;
+}
+
+.home {
+    color: darkgoldenrod;
+    font-size: 24px;
+}
